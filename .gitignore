@@ -32,3 +32,6 @@ package-lock.json
 pnpm-lock.yaml
 
 .history
+yarn.lock
+ 
+ 
